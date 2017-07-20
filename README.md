@@ -24,6 +24,7 @@ __bold characters__
   * Item 3a
   * Item 3b
   * Item 3c
+  * Item 3d
 
 
 1. Step 1
@@ -49,6 +50,7 @@ This is a normal paragraph:
 
     This is a code block.
     With multiple lines.
+    ksfhdksdhskldh,sdnvg
 
 Alternatively, you can use 3 backtick quote marks before and after the block, like this:
 
