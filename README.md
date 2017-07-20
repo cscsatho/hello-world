@@ -40,6 +40,7 @@ Introducing my quote:
 > Neque porro quisquam est qui 
 > dolorem ipsum quia dolor sit amet, 
 > consectetur, adipisci velit...
+> aaa bbb ccc ddd
 
 Use the backtick to refer to a `function()`.
  
@@ -63,6 +64,7 @@ To add syntax highlighting to a code block, add the name of the language immedia
 after the backticks: 
 
 ```javascript
+var a = 1;
 var oldUnload = window.onbeforeunload;
 window.onbeforeunload = function() {
     saveCoverage();
